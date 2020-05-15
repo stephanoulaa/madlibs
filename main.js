@@ -40,7 +40,7 @@
 function getAdjective() {
     var adjective = prompt('Please type an adjective: '); 
     if (adjective === '') {
-        alert("nope, try again");
+        alert("nope, try again bruh");
         adjective;
     }
 }

@@ -1,3 +1,5 @@
 -make button that says "ready to play?" or something similar, and this starts the prompts
 -make different themes/stories, style accordingly
 -work on validating entries
+-add different types of words
+-countdown on # of questions left

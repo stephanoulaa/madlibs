@@ -36,10 +36,11 @@
 //alert("Oops! This field can't be blank. Please enter an adjective.")
 //var adjective;
 
+//changes
 function getAdjective() {
     var adjective = prompt('Please type an adjective: '); 
     if (adjective === '') {
-        alert("nope");
+        alert("nope, try again");
         adjective;
     }
 }

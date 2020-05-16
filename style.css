@@ -1,8 +1,53 @@
+body {
+    border: 2px solid pink;
+    /* add border radius to final border? */
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    background-color: black;
+}
+
+header {
+    border: 2px solid green;
+    text-align: center;
+    color: lightskyblue;
+}
+
+h1 {
+    font-size: 58px;
+}
+
+div.text-center {
+    padding-top: 25px;
+}
+
+main {
+    background-color: skyblue;
+    border: 2px solid orange;
+    height: 500px;
+}
+
 #story {
-    color: brown;
+    padding-top: 40px;
+    color: white;
+    font-size: 28px;
 }
 
 span {
     font-weight: bold;
-    color: lightcoral;
+    color: darkblue;
+}
+
+footer {
+    border: 2px solid black;
+    color: white;
+}
+
+#authorName {
+    color: white;
+}
+
+#copyright {
+    color: white;
+    float: right;
 }

@@ -1,8 +1,8 @@
--make button that says "ready to play?" that starts the JS pages
--make different themes/stories, style accordingly
--work on validating entries
--add different types of words
--countdown on # of questions left
+-make different themes/stories, give users options to choose one
+-style accordingly for each theme
+-add more types of entries
+-countdown on # of questions left(?)
+-make responsive
 
 Themes:
 - quarantine

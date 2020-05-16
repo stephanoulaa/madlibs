@@ -1,3 +1,8 @@
 #story {
+    color: brown;
+}
+
+span {
+    font-weight: bold;
     color: lightcoral;
 }

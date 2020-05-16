@@ -1,4 +1,4 @@
-function loadHalloween() {
+function loadChristmas() {
     // ADJECTIVES -----------------------------------------------------------
     var backupAdjectives = [ 'hungry', 'dizzy', 'itchy', 'bloody', 'offensive', 'alcoholic', 'free-loading', 'sadistic', 'hairless', 'domesticated', 'frozen', 'unholy', 'drunken'  ];
 
@@ -7,7 +7,7 @@ function loadHalloween() {
     }
 
     var randomAdj = randomBackupAdj();
-    var adjective = prompt("halloween: enter adj: ");
+    var adjective = prompt("(c) halloween: enter adj: ");
 
     // in case the user leaves the field empty, insert a randomly chosen adjective
     if (adjective === '') {
@@ -118,7 +118,7 @@ function loadHalloween() {
         return occ;
     }
     printOcc();
-} //end loadJS()
+} //end loadChristmas()
 
 
 

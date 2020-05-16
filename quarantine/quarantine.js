@@ -7,7 +7,7 @@ function loadQuarantine() {
     }
 
     var randomAdj = randomBackupAdj();
-    var adjective = prompt("enter adj: ");
+    var adjective = prompt("(q) enter adj: ");
 
     // in case the user leaves the field empty, insert a randomly chosen adjective
     if (adjective === '') {
@@ -118,7 +118,7 @@ function loadQuarantine() {
         return occ;
     }
     printOcc();
-} //end loadJS()
+} //end loadQuarantine()
 
 
 

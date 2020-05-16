@@ -7,7 +7,7 @@ function loadHalloween() {
     }
 
     var randomAdj = randomBackupAdj();
-    var adjective = prompt("halloween: enter adj: ");
+    var adjective = prompt("(h) enter adj: ");
 
     // in case the user leaves the field empty, insert a randomly chosen adjective
     if (adjective === '') {

@@ -118,7 +118,7 @@ function loadJS() {
         return occ;
     }
     printOcc();
-}
+} //end loadJS()
 
 
 

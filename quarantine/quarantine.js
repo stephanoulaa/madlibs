@@ -1,4 +1,4 @@
-function loadJS() {
+function loadQuarantine() {
     // ADJECTIVES -----------------------------------------------------------
     var backupAdjectives = [ 'hungry', 'dizzy', 'itchy', 'bloody', 'offensive', 'alcoholic', 'free-loading', 'sadistic', 'hairless', 'domesticated', 'frozen', 'unholy', 'drunken'  ];
 
@@ -49,7 +49,7 @@ function loadJS() {
 
 
     // VERBS -----------------------------------------------------------
-    var backupVerbs = [ 'frolicking', 'canoodling', 'tripping', 'pounding shots', 'meandering', 'screaming', 'analyzing'];
+    var backupVerbs = [ 'frolicking', 'canoodling', 'tripping', 'pounding shots of vodka', 'meandering', 'screaming', 'analyzing'];
 
     function randomBackupVerb () {
       return Math.floor(Math.random() * (backupVerbs.length) );

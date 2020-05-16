@@ -1,0 +1,80 @@
+body {
+    border: 2px solid pink;
+    /* add border radius to final border? */
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    background-color: black;
+}
+
+header {
+    border: 2px solid green;
+    text-align: center;
+    color: lightskyblue;
+}
+
+/*external button 1*/
+.halloween-button {
+    background-color: orange;
+    border: 2px solid orange;
+    border-radius: 50%;
+    margin: 5px;
+    float: right;
+}
+
+/*external button 2*/
+.christmas-button {
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+    margin: 5px;
+    float: right;
+}
+
+/*external button 3*/
+.summer-button {
+    background-color: pink;
+    border: 2px solid pink;
+    border-radius: 50%;
+    margin: 5px;
+    float: right;
+}
+
+h1 {
+    font-size: 58px;
+}
+
+div.text-center {
+    padding-top: 25px;
+}
+
+main {
+    background-color: skyblue;
+    border: 2px solid orange;
+    height: 500px;
+}
+
+#story {
+    padding-top: 40px;
+    color: white;
+    font-size: 28px;
+}
+
+span {
+    font-weight: bold;
+    color: darkblue;
+}
+
+footer {
+    border: 2px solid black;
+    color: white;
+}
+
+#authorName {
+    color: white;
+}
+
+#copyright {
+    color: white;
+    float: right;
+}
